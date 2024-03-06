@@ -5,7 +5,7 @@ import Hero from './components/Hero.jsx';
 import Information from './components/Information.jsx';
 import Projects from './components/Projects.jsx';
 import Faq from './components/Faq.jsx';
-
+import Info from './components/Info.jsx'
 
 const App = () => {
   return (
@@ -14,6 +14,7 @@ const App = () => {
 <Nav />
 <Hero />
 <Information />
+<Info />
 <Projects />
 <Faq />
 <Footer />

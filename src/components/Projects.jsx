@@ -13,7 +13,7 @@ const Projects = () => {
   <li className='flex flex-row items-center gap-2'><FaProjectDiagram />Vihan Kia Office</li>
 <li className='flex flex-row items-center gap-2'><FaProjectDiagram />Sandur Power Pvt.Itd</li>
 </ul>
-<ul className='text-[15px] md:text-[22px] md:font-light md:mt-8 flex flex-col gap-3 md:flex-row md:gap-9'>
+<ul className='text-[15px] md:text-[22px] mt-3 md:font-light md:mt-8 flex flex-col gap-3 md:flex-row md:gap-9'>
 
   <li className='flex flex-row items-center gap-2'><FaProjectDiagram />Sakshi</li>
   <li className='flex flex-row items-center gap-2'><FaProjectDiagram />Concrete lime light infra Projects</li>
