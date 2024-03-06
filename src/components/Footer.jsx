@@ -7,7 +7,7 @@ import { IoCall } from "react-icons/io5";
 
 const Footer = () => {
   return (
-<footer className="bg-gray-800 text-white py-6 mt-5 rounded-lg">
+<footer className="bg-gray-800 text-white py-6 mt-5 ">
   <h1 className='text-[22px] p-2 '>Contact Us</h1>
       <div className="container mx-auto text-center flex flex-col gap-3">
         
